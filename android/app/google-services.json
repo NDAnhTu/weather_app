@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "756278580371",
+    "firebase_url": "https://gundameshop-default-rtdb.firebaseio.com",
+    "project_id": "gundameshop",
+    "storage_bucket": "gundameshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756278580371:android:23b7e07be97f7dbe792966",
+        "android_client_info": {
+          "package_name": "com.example.test_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756278580371-03c86fb1tr4mdu7q0c4fvb0hppk31aek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChcDphy_q8tLmCpb56c9BUWqEf7qRmrHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756278580371-03c86fb1tr4mdu7q0c4fvb0hppk31aek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
